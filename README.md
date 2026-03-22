@@ -48,51 +48,11 @@
 
 ## Root@ErikSant:~$ whoami
 
-```java
-public class ErikSant {
-
-    String motto = "Construindo projetos reais para aprender de forma prática, organizada e profissional";
-    String role = "Backend-focused Developer | Fullstack Builder | Automation & AI Enthusiast";
-
-    String[] coreInterests = {
-        "Backend Development",
-        "Fullstack Architecture",
-        "Automation",
-        "Artificial Intelligence",
-        "APIs and Integrations",
-        "Study Systems",
-        "Product Building"
-    };
-
-    String softSkills = "Curious, consistent, analytical and focused on practical growth";
-    String motivation = "Build useful systems, understand products end-to-end and evolve through real projects";
-
-    boolean learning = true;
-    int caffeineLevel = 100;
-
-    public void dailyRoutine() {
-        studyArchitecture();
-        buildProjects();
-        improveBackend();
-        connectFrontendToAPI();
-        debugCarefully();
-        learnSomethingNew();
-    }
-
-    public void codingJourney() {
-        while (learning) {
-            refactorWhenNeeded();
-            organizeProjects();
-            improveProductThinking();
-            testFlows();
-
-            if (caffeineLevel < 30) {
-                drinkCoffee();
-            }
-        }
-    }
-}
-```
+- Construindo projetos reais para aprender de forma prática, organizada e profissional.
+- `Role:` Backend-focused Developer | Fullstack Builder | Automation & AI Enthusiast
+- `Core interests:` Backend Development, Fullstack Architecture, Automation, Artificial Intelligence, APIs and Integrations, Study Systems, Product Building
+- `Soft skills:` Curious, consistent, analytical and focused on practical growth
+- `Motivation:` Build useful systems, understand products end-to-end and evolve through real projects
 
 <p align="center">
   <a href="https://github.com/Erik02T">
