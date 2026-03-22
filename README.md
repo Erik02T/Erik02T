@@ -1,95 +1,61 @@
-# Hi 👋, I'm Erik
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4F8CC9&center=true&vCenter=true&width=900&lines=Erik+Sant;Fullstack+Developer+in+progress;Building+StudyOS+and+Anime+Manager;Focused+on+Backend%2C+Automation%2C+AI+and+Web+Development" alt="Typing SVG" />
+</p>
 
-🚀 **Backend Developer | Python & FastAPI Specialist**  
-🇧🇷 Brazil
-
-I build **secure APIs**, **scalable backend systems**, and **mobile-integrated applications**.  
-Currently focused on **architecture, authentication, clean code, and production-ready systems**.
-
-I’m building real-world projects to simulate professional environments and strengthen my backend engineering skills.
-
----
-
-## 🌐 Where to find me
-
-<p align="left">
-  <a href="https://github.com/Erik02T">
-    <img src="https://img.shields.io/badge/GitHub-ERIK02T-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://linkedin.com/in/erik-santos-1b6a38246">
-    <img src="https://img.shields.io/badge/LinkedIn-ERIK%20SANTOS-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:eriksantos0126@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ERIKSANTOS0126%40GMAIL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Fullstack%20Development-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frontend-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Language-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 ---
 
-## 🧠 What I Do
+# Root@ErikSant:~$ whoami
 
-- 🏗️ REST API development with FastAPI  
-- 🔐 JWT authentication & secure systems  
-- 🗄️ Database modeling & relationships  
-- 🧩 Clean architecture & backend structure  
-- 🐳 Dockerized environments  
-- ☁️ Cloud deployment (Render / Railway)  
-- 📱 Backend ↔ Mobile integration  
-- 🚀 Production-ready backend simulation  
+## "Construindo projetos reais para aprender de forma prática, organizada e profissional."
 
----
+```java
+public class ErikSant {
 
-## 🛠️ Tech Stack
+    String role = "Fullstack Developer in progress | Backend-focused | Automation & AI enthusiast";
 
-### Backend
+    String[] coreInterests = {
+        "Backend Development",
+        "Fullstack Architecture",
+        "Automation",
+        "Artificial Intelligence",
+        "APIs and Integrations",
+        "Study Systems and Product Building"
+    };
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens)
+    String softSkills = "Curious, consistent, analytical and focused on structured learning";
+    String motivation = "Build useful systems, understand how products work end-to-end, and grow through real projects";
 
-### Frontend (Mobile)
+    boolean learning = true;
+    int caffeineLevel = 100;
 
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge)
+    public void dailyRoutine() {
+        studyArchitecture();
+        buildProjects();
+        improveBackend();
+        connectFrontendToAPI();
+        testFlows();
+        learnSomethingNew();
+    }
 
-### DevOps & Tools
+    public void codingJourney() {
+        while (learning) {
+            debugCarefully();
+            refactorWhenNeeded();
+            organizeProjects();
+            improveProductThinking();
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge)
-
----
-
-## 🚀 Current Project
-
-### 🎌 Anime Manager
-
-A full-stack application designed to manage anime lists with secure authentication and real backend architecture.
-
-Features:
-
-- User authentication with JWT
-- CRUD operations
-- Relational database structure
-- Dockerized backend
-- Mobile app integration
-- Production deployment ready
-
----
-
-## 🚀 Philosophy
-
-> _"I don’t just write code.  
-> I build systems that are secure, structured, and ready for production."_
-
----
-
-⭐ Always building. Always improving.  
-🤝 Open to opportunities and collaborations.
+            if (caffeineLevel < 30) {
+                drinkCoffee();
+            }
+        }
+    }
+}
