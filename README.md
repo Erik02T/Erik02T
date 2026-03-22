@@ -48,11 +48,10 @@
 
 ## Root@ErikSant:~$ whoami
 
-> "Construindo projetos reais para aprender de forma prática, organizada e profissional."
-
 ```java
 public class ErikSant {
 
+    String motto = "Construindo projetos reais para aprender de forma prática, organizada e profissional";
     String role = "Backend-focused Developer | Fullstack Builder | Automation & AI Enthusiast";
 
     String[] coreInterests = {
