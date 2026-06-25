@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Fullstack-0A66C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Main%20Stack-Python%20%7C%20FastAPI-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Main%20Stack-Node.js%20%7C%20NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Frontend-React%20%7C%20TypeScript-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Database-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Learning-Automation%20%7C%20AI-6A5ACD?style=for-the-badge" />
@@ -20,7 +20,7 @@
 
 ### Back End & Infra
 <p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,git,github" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,postgres,docker,git,github" />
 </p>
 
 ### Front End & DB
@@ -84,9 +84,9 @@
 ## Estou estudando
 
 ### Backend
-- FastAPI
-- SQLAlchemy
-- Alembic
+- NestJS
+- Express (plataforma HTTP usada internamente pelo NestJS)
+- TypeORM / Prisma
 - Authentication
 - Service layer
 - API architecture
